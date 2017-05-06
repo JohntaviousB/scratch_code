@@ -1,0 +1,17 @@
+{
+    "age": "22",
+    "Institution": "Georgia Tech",
+    "name": "Johntavious",
+    "classes": [
+        "Junior Design",
+        "Algorithms",
+        "Prob/Stat",
+        "Comp Sys Arch"
+    ],
+    "players_rank": {
+        "1": "Kyrie",
+        "2": "Lebron",
+        "3": "PG-13",
+        "4": "Kobe"
+    }
+}
